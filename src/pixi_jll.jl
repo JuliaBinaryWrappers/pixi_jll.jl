@@ -6,5 +6,5 @@ using LazyArtifacts
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("pixi")
-JLLWrappers.@generate_main_file("pixi", UUID("4d7b5844-a134-5dcd-ac86-c8f19cd51bed"))
+JLLWrappers.@generate_main_file("pixi", Base.UUID("4d7b5844-a134-5dcd-ac86-c8f19cd51bed"))
 end  # module pixi_jll
