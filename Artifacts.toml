@@ -1,47 +1,47 @@
 [[pixi]]
 arch = "aarch64"
-git-tree-sha1 = "2d933917be1d230d096513e1ae50dd7ad28a92e0"
+git-tree-sha1 = "2941ae5d27cd54a319bf0752ddb39ef1a98621eb"
 lazy = true
 os = "macos"
 
     [[pixi.download]]
-    sha256 = "f6cc48ef13e0e5ae6c7cf79b3206c7916754ef8e6a9e9db41029c265869b9313"
-    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.76.2+0/pixi.v0.76.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "5065934f455f7b37d34159933a01cdce71112e77fd6021a9e35758584bb0178a"
+    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.84.2+0/pixi.v0.84.2.aarch64-apple-darwin.tar.gz"
 [[pixi]]
 arch = "aarch64"
-git-tree-sha1 = "df5700892143d4a7319afe58f478d42dc69ba0d4"
+git-tree-sha1 = "e3a8acca085a58d3c0ad6a006375939c644870e4"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[pixi.download]]
-    sha256 = "9dc9a44d14d3f32712e71852dc937212b900832b1b95deb399ed21db206b5f1f"
-    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.76.2+0/pixi.v0.76.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "162bdfd33b0d5fe03db9e204a0b8f18ce520064589f7b024e47fff178c226c34"
+    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.84.2+0/pixi.v0.84.2.aarch64-linux-gnu.tar.gz"
 [[pixi]]
 arch = "x86_64"
-git-tree-sha1 = "1aaaf317c923a80337fc1365200ef76c87ef5435"
+git-tree-sha1 = "c077b06307f6f3bd8298d2af8574edc51238c691"
 lazy = true
 os = "macos"
 
     [[pixi.download]]
-    sha256 = "08fb129eca9718d299b26494be40f11effda500b067486caa14bb1c769848cc1"
-    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.76.2+0/pixi.v0.76.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "ac2023cedcf2947247e48216f296f750e4bc16bbbb2cb6c4ae228a58300c7945"
+    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.84.2+0/pixi.v0.84.2.x86_64-apple-darwin.tar.gz"
 [[pixi]]
 arch = "x86_64"
-git-tree-sha1 = "8429d049f6c01106c62971e9540e146dc068df25"
+git-tree-sha1 = "0e213cdb8c164f49742d680ef895957f374ba3d8"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[pixi.download]]
-    sha256 = "e0f3659d0949cdfcca19c9d322e7e68e0498d94fd4c74d9c6f97733271e5fe99"
-    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.76.2+0/pixi.v0.76.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "ba0fef2e4ec8c02970992f4d0369c3c751db259a60f3d628e2192088431c7d17"
+    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.84.2+0/pixi.v0.84.2.x86_64-linux-gnu.tar.gz"
 [[pixi]]
 arch = "x86_64"
-git-tree-sha1 = "6cd2217b3e33a22947fb8d4194f79fd44c7dc25f"
+git-tree-sha1 = "ff90a4e4d965a895ed3638b684193425c2974b55"
 lazy = true
 os = "windows"
 
     [[pixi.download]]
-    sha256 = "fb698dc687c5957e08b2d4e628a8a9255a9988d96d9fa6de3a5c2d81f22c8c76"
-    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.76.2+0/pixi.v0.76.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "38a16f2e2419e869e9ce9295c300f7e98bc86557e0e4c22b7f470500c86734dc"
+    url = "https://github.com/JuliaBinaryWrappers/pixi_jll.jl/releases/download/pixi-v0.84.2+0/pixi.v0.84.2.x86_64-w64-mingw32.tar.gz"
